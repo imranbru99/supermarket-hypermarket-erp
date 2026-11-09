@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "supermarket-hypermarket-erp",
+  "description": "Supermarket & Hypermarket ERP — Retail Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Supermarket ERP for high-SKU inventory, weighing scales, loyalty, and multi-store ops. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "retail",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/supermarket-hypermarket-erp"
+}
